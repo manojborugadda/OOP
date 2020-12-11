@@ -1,2 +1,2 @@
 # OOP-----------------------
-In this respository we can see my practice on OOP in C++
+In this repository we can see my practice on OOP in C++
